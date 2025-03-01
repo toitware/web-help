@@ -20,7 +20,7 @@ on:
   workflow_dispatch:
 
 env:
-  GUILD_ID: 918498540232253480
+  GUILD_ID: '918498540232253480'
 
 jobs:
   publish:
