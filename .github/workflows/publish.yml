@@ -31,7 +31,7 @@ jobs:
 
       - name: Generate transcript
         # TODO(florian): use released version.
-        uses: toitlang/action-discord-transcript@438c96e266b4baec1b3abfbd1a4b2e5408e05eb1
+        uses: toitlang/action-discord-transcript@d8dee537c18a45a7eba0759c4f8079d24bdd4675
         with:
           discord-credentials: ${{ secrets.DISCORD_TRANSCRIPT_CREDENTIALS }}
           guild-id: ${{ env.GUILD_ID }}
