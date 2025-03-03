@@ -1,5 +1,5 @@
-# web-discord-help
+# web-help
 
-A transcript of the help channel on our Discord
+A transcript of the help channel on our Discord.
 
 Served at https://help.toit.io.
