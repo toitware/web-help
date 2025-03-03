@@ -30,8 +30,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate transcript
-        # TODO(florian): use released version.
-        uses: toitlang/action-discord-transcript@46ab6d2e47916ab0317664628da2d259740952ef
+        uses: toitlang/action-discord-transcript@v1.0.0
         with:
           discord-token: ${{ secrets.DISCORD_TRANSCRIPT_TOKEN }}
           guild-id: ${{ env.GUILD_ID }}
