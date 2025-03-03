@@ -1,6 +1,6 @@
 # Zero-Clause BSD License
 
-# Copyright (C) 2025 Toitlang
+# Copyright (C) 2025 Toit language
 
 # Permission to use, copy, modify, and/or distribute this software for any
 # purpose with or without fee is hereby granted.
@@ -20,7 +20,7 @@ on:
   workflow_dispatch:
 
 env:
-  GUILD_ID: '918498540232253480'
+  GUILD_ID: '918498540232253480' # Toit
 
 jobs:
   publish:
@@ -31,7 +31,7 @@ jobs:
 
       - name: Generate transcript
         # TODO(florian): use released version.
-        uses: toitlang/action-discord-transcript@40bf7b2fa7c8d4d26d27692804e77681da99f918
+        uses: toitlang/action-discord-transcript@f6bbe6173a7585348564bba9ad4f8352ae888df6
         with:
           discord-credentials: ${{ secrets.DISCORD_TRANSCRIPT_CREDENTIALS }}
           guild-id: ${{ env.GUILD_ID }}
@@ -50,4 +50,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: transcripts
-          cname: discord-help.toit.io
+          cname: help.toit.io
