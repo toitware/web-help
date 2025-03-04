@@ -8,10 +8,10 @@ import .utils
 
 MAX-ENTRIES_ := 15
 
-build-entries_ index/Map --transcripts-dir/string -> string:
+build-entries_ topics/Map --transcripts-dir/string -> string:
   buffer := io.Buffer
   entry-count := 0
-  index.do --values: | entry/Map |
+  topics.do --values: | entry/Map |
     url := "$transcripts-dir/$entry["filename"]"
     display := entry["displayName"]
     escaped-display := html-encode display
@@ -20,12 +20,11 @@ build-entries_ index/Map --transcripts-dir/string -> string:
       <a href="url">$display</a>
     </li>
     """
-    if entry-count > MAX-ENTRIES_:
+    if entry-count++ > MAX-ENTRIES_:
       return buffer.to-string
   return buffer.to-string
 
-
-build-main-index index/Map --transcripts-dir/string --all-threads-path/string -> string:
+build-main-index topics/Map --transcripts-dir/string --all-topics-path/string -> string:
   return """
     <!DOCTYPE html>
     <html>
@@ -39,9 +38,9 @@ build-main-index index/Map --transcripts-dir/string --all-threads-path/string ->
         The following topics have been recently discussed in the Discord channel:
         <h1>Help</h1>
         <ul>
-        $(build-entries_ index --transcripts-dir=transcripts-dir)
+        $(build-entries_ topics --transcripts-dir=transcripts-dir)
         </ul>
-        A full list of topics can be found at <a href="$all-threads-path">All Threads</a>.
+        You can also browse the <a href="$all-topics-path">full list of topics</a>.
       </body>
     </html>
     """

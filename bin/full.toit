@@ -19,7 +19,6 @@ build-entries_ index/Map --transcripts-dir/string -> string:
     """
   return buffer.to-string
 
-
 build-full index/Map --transcripts-dir/string -> string:
   return """
     <!DOCTYPE html>

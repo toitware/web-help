@@ -30,13 +30,13 @@ build invocation/Invocation:
   transcripts-dir := invocation["transcripts-dir"]
 
   encoded-index := file.read-contents "$build-dir/$transcripts-dir/index.json"
-  index/Map := json.decode encoded-index
+  topics/Map := json.decode encoded-index
 
-  index-html := build-main-index index
+  index-html := build-main-index topics
       --transcripts-dir=transcripts-dir
-      --all-threads-path="all-threads.html"
+      --all-topics-path="all-topics.html"
 
-  full-html := build-full index --transcripts-dir=transcripts-dir
+  all-topics := build-full topics --transcripts-dir=transcripts-dir
 
   file.write-contents --path="$build-dir/index.html" index-html
-  file.write-contents --path="$build-dir/all-threads.html" full-html
+  file.write-contents --path="$build-dir/all-topics.html" all-topics
