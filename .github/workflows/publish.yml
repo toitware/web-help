@@ -21,6 +21,7 @@ on:
 
 env:
   GUILD_ID: '918498540232253480' # Toit
+  TOIT_VERSION: 'v2.0.0-alpha.175'
 
 jobs:
   publish:
@@ -44,9 +45,25 @@ jobs:
           git commit -m "Update transcripts"
           git push
 
+      - name: Install Toit
+        uses: toitlang/action-setup@v1
+        with:
+          toit-version: ${{ env.TOIT_VERSION }}
+
+      - name: Create build directory
+        run: |
+          mkdir build
+          cp -r transcripts build/
+
+      - name: Build
+        working-directory: bin
+        run: |
+          toit pkg install
+          toit main.toit --transcripts-dir=transcripts ${{ github.workspace }}/build
+
       - name: "Upload to gh-pages"
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: transcripts
+          publish_dir: build
           cname: help.toit.io
