@@ -1,0 +1,40 @@
+@import url("typography.css");
+
+:root {
+  --fontFamilyContent: Roboto, Helvetica, sans-serif;
+  --fontFamilyTitle: "ClashDisplay", Verdana, sans-serif;
+}
+
+html {
+  font-family: var(--fontFamilyContent);
+  font-size: 16px;
+  line-height: 1.5rem;
+}
+
+h1, h2 {
+  font-family: var(--fontFamilyTitle);
+  font-weight: 200;
+  line-height: 1.3em;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+hr {
+  display: block;
+  margin: 3rem 0;
+  height: 2px;
+  background: black;
+  border: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

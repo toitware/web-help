@@ -24,12 +24,18 @@ build-full index/Map --transcripts-dir/string -> string:
     <!DOCTYPE html>
     <html>
       <head>
-        <title>Help</title>
+        <title>Help - Toit</title>
+        <link rel="icon" href="assets/images/icon.svg" type="image/svg+xml">
+        <link rel="stylesheet" href="assets/css/styles.css">
       </head>
       <body>
+        <h1>Topics</h1>
         <ul>
         $(build-entries_ index --transcripts-dir=transcripts-dir)
         </ul>
+
+        <hr>
+        <img src="assets/images/toit-logo.inline.svg" alt="Logo" class="center" width="200">
       </body>
     </html>
     """
