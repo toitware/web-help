@@ -16,8 +16,17 @@
 name: Publish fresh transcript
 on:
   schedule:
-    - cron: '00 2 * * *' # 02:00 UTC
+    - cron: '0 * * * *'  # Every hour.
   workflow_dispatch:
+    inputs:
+      clear-cache:
+        description: 'Clear the cache.'
+        required: false
+        default: false
+        type: boolean
+  push:
+    branches:
+      - main
 
 env:
   GUILD_ID: '918498540232253480' # Toit
@@ -29,6 +38,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Delete cache
+        # When pushing to main, clear the cache.
+        if: github.ref == 'refs/heads/main' || github.event.inputs.clear-cache == 'true'
+        run: |
+          rm -rf transcripts
 
       - name: Generate transcript
         uses: toitlang/action-discord-transcript@v1.0.1
