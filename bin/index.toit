@@ -17,7 +17,7 @@ build-entries_ topics/Map --transcripts-dir/string -> string:
     escaped-display := html-encode display
     buffer.write """
     <li>
-      <a href="url">$display</a>
+      <a href="$url">$display</a>
     </li>
     """
     if entry-count++ > MAX-ENTRIES_:
