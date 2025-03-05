@@ -1,6 +1,6 @@
 # Zero-Clause BSD License
 
-# Copyright (C) 2025 Toit language
+# Copyright (C) 2025 Toit contributors
 
 # Permission to use, copy, modify, and/or distribute this software for any
 # purpose with or without fee is hereby granted.
@@ -53,6 +53,7 @@ jobs:
       - name: Create build directory
         run: |
           mkdir build
+          cp -r assets build/
           cp -r transcripts build/
 
       - name: Build
