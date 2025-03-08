@@ -1312,11 +1312,5 @@
     "displayName": "UDP connected socket, any obvious omission?",
     "isArchived": true,
     "lastActivity": "2022-10-15T20:29:46.560Z"
-  },
-  "1027509757403209768": {
-    "filename": "1027509757403209768.html",
-    "displayName": "Connecting Ultrasonic sensor to trigger Servo motor",
-    "isArchived": true,
-    "lastActivity": "2022-10-13T11:09:51.577Z"
   }
 }
