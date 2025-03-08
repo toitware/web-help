@@ -43,7 +43,7 @@ jobs:
         # Clearing the cache means that all threads will be downloaded again.
         # Once we have a lot of threads, we might want to avoid this for every
         # push to main.
-        if: github.ref == 'refs/heads/main' || github.event.inputs.clear-cache == 'true'
+        if: (github.event_name == 'push' && github.ref == 'refs/heads/main') || github.event.inputs.clear-cache == 'true'
         run: |
           rm -rf transcripts
 
