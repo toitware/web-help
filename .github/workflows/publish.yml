@@ -48,7 +48,7 @@ jobs:
           rm -rf transcripts
 
       - name: Generate transcript
-        uses: toitlang/action-discord-transcript@v1.0.1
+        uses: toitlang/action-discord-transcript@v1.1.0
         with:
           discord-token: ${{ secrets.DISCORD_TRANSCRIPT_TOKEN }}
           guild-id: ${{ env.GUILD_ID }}
