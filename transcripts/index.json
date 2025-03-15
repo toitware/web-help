@@ -83,12 +83,6 @@
     "isArchived": false,
     "lastActivity": "2025-02-14T13:30:07.203Z"
   },
-  "1339629364114886686": {
-    "filename": "1339629364114886686.html",
-    "displayName": "storage buckets and custom objects",
-    "isArchived": false,
-    "lastActivity": "2025-02-13T16:08:49.515Z"
-  },
   "1339094810455445565": {
     "filename": "1339094810455445565.html",
     "displayName": "Ble AdvertisementData shows only one instance of Advertisement Data type",
@@ -112,6 +106,12 @@
     "displayName": "Set hostname",
     "isArchived": false,
     "lastActivity": "2025-02-24T14:20:59.636Z"
+  },
+  "1339629364114886686": {
+    "filename": "1339629364114886686.html",
+    "displayName": "storage buckets and custom objects",
+    "isArchived": true,
+    "lastActivity": "2025-03-15T16:18:48.084Z"
   },
   "1339612998494453843": {
     "filename": "1339612998494453843.html",
@@ -1306,11 +1306,5 @@
     "displayName": "Dashboard",
     "isArchived": true,
     "lastActivity": "2022-11-05T15:24:59.203Z"
-  },
-  "1032998996395950160": {
-    "filename": "1032998996395950160.html",
-    "displayName": "MCPWM",
-    "isArchived": true,
-    "lastActivity": "2022-10-31T22:42:30.817Z"
   }
 }
