@@ -89,12 +89,6 @@
     "isArchived": false,
     "lastActivity": "2025-02-13T16:08:49.515Z"
   },
-  "1339612998494453843": {
-    "filename": "1339612998494453843.html",
-    "displayName": "Battery level",
-    "isArchived": false,
-    "lastActivity": "2025-02-13T15:03:47.647Z"
-  },
   "1339094810455445565": {
     "filename": "1339094810455445565.html",
     "displayName": "Ble AdvertisementData shows only one instance of Advertisement Data type",
@@ -118,6 +112,12 @@
     "displayName": "Set hostname",
     "isArchived": false,
     "lastActivity": "2025-02-24T14:20:59.636Z"
+  },
+  "1339612998494453843": {
+    "filename": "1339612998494453843.html",
+    "displayName": "Battery level",
+    "isArchived": true,
+    "lastActivity": "2025-03-15T15:52:37.494Z"
   },
   "1350062590641963120": {
     "filename": "1350062590641963120.html",
@@ -1312,11 +1312,5 @@
     "displayName": "MCPWM",
     "isArchived": true,
     "lastActivity": "2022-10-31T22:42:30.817Z"
-  },
-  "1034065091357835325": {
-    "filename": "1034065091357835325.html",
-    "displayName": "Help with HTTP library",
-    "isArchived": true,
-    "lastActivity": "2022-10-31T11:33:37.056Z"
   }
 }
