@@ -83,12 +83,6 @@
     "isArchived": false,
     "lastActivity": "2025-02-20T20:07:01.820Z"
   },
-  "1341378864659693630": {
-    "filename": "1341378864659693630.html",
-    "displayName": "Failed generation of toit.pkg",
-    "isArchived": false,
-    "lastActivity": "2025-02-18T12:20:40.264Z"
-  },
   "1339951812509433917": {
     "filename": "1339951812509433917.html",
     "displayName": "Likelyhood of getting uint64 support? :)",
@@ -118,6 +112,12 @@
     "displayName": "Set hostname",
     "isArchived": false,
     "lastActivity": "2025-02-24T14:24:57.136Z"
+  },
+  "1341378864659693630": {
+    "filename": "1341378864659693630.html",
+    "displayName": "Failed generation of toit.pkg",
+    "isArchived": true,
+    "lastActivity": "2025-03-20T12:27:29.062Z"
   },
   "1341126374651330621": {
     "filename": "1341126374651330621.html",
@@ -1312,11 +1312,5 @@
     "displayName": "vscode  setup?",
     "isArchived": true,
     "lastActivity": "2022-11-08T19:38:23.825Z"
-  },
-  "1036737584975581285": {
-    "filename": "1036737584975581285.html",
-    "displayName": "MQTT",
-    "isArchived": true,
-    "lastActivity": "2022-11-08T10:40:14.550Z"
   }
 }
