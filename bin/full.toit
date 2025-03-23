@@ -27,15 +27,27 @@ build-full index/Map --transcripts-dir/string -> string:
         <title>Help - Toit</title>
         <link rel="icon" href="assets/images/icon.svg" type="image/svg+xml">
         <link rel="stylesheet" href="assets/css/styles.css">
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
       </head>
       <body>
-        <h1>Topics</h1>
-        <ul>
-        $(build-entries_ index --transcripts-dir=transcripts-dir)
-        </ul>
+        <div class="layout">
+          <h1>Topics</h1>
+          <ul>
+          $(build-entries_ index --transcripts-dir=transcripts-dir)
+          </ul>
 
-        <hr>
-        <img src="assets/images/toit-logo.inline.svg" alt="Logo" class="center" width="200">
+          <footer>
+            <img
+              src="assets/images/toit-logo.inline.svg"
+              alt="Logo"
+              class="center"
+              width="200"
+            />
+          </footer>
+        </div>
       </body>
     </html>
     """
