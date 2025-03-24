@@ -1,8 +1,8 @@
 @import url("typography.css");
 
 :root {
-  --fontFamilyContent: Roboto, Helvetica, sans-serif;
-  --fontFamilyTitle: "ClashDisplay", Verdana, sans-serif;
+  --fontFamilyContent: Roboto, Helvetica, Sans-Serif;
+  --fontFamilyTitle: "ClashDisplay", Verdana, Sans-Serif;
   --max-content-width: 600px;
   --primary-color: rgb(94, 111, 219);
 }
