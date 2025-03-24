@@ -1,8 +1,16 @@
 @import url("typography.css");
 
 :root {
-  --fontFamilyContent: Roboto, Helvetica, sans-serif;
-  --fontFamilyTitle: "ClashDisplay", Verdana, sans-serif;
+  --fontFamilyContent: Roboto, Helvetica, Sans-Serif;
+  --fontFamilyTitle: "ClashDisplay", Verdana, Sans-Serif;
+  --max-content-width: 600px;
+  --primary-color: rgb(94, 111, 219);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 html {
@@ -11,7 +19,31 @@ html {
   line-height: 1.5rem;
 }
 
-h1, h2 {
+.layout {
+  width: var(--max-content-width);
+  max-width: 100%;
+  margin: 0 auto;
+  padding-inline: 16px;
+}
+
+footer {
+  margin-block: 100px 40px;
+}
+
+ul,
+ol {
+  margin: 20px 0;
+  padding-left: 2ch;
+  li:not(first-child) {
+    margin-top: 8px;
+  }
+}
+ul {
+  list-style-type: "- ";
+}
+
+h1,
+h2 {
   font-family: var(--fontFamilyTitle);
   font-weight: 200;
   line-height: 1.3em;
@@ -25,12 +57,18 @@ h2 {
   font-size: 24px;
 }
 
-hr {
-  display: block;
-  margin: 3rem 0;
-  height: 2px;
-  background: black;
-  border: none;
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  &:visited {
+    color: color-mix(in oklch, black 10%, var(--primary-color) 90%);
+  }
+  &:hover {
+    text-decoration: underline;
+  }
+}
+a:visited {
+  opacity: 0.1;
 }
 
 .center {
