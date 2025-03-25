@@ -3,7 +3,7 @@
     "filename": "1354111159330144277.html",
     "displayName": "How to detect the data type of an object?",
     "isArchived": false,
-    "lastActivity": "2025-03-25T16:02:38.892Z"
+    "lastActivity": "2025-03-25T17:08:26.691Z"
   },
   "1352603653134880820": {
     "filename": "1352603653134880820.html",
@@ -65,12 +65,6 @@
     "isArchived": false,
     "lastActivity": "2025-02-23T21:58:06.002Z"
   },
-  "1343176175358578798": {
-    "filename": "1343176175358578798.html",
-    "displayName": "Pixelstrip on ESP32S3",
-    "isArchived": false,
-    "lastActivity": "2025-02-23T16:35:36.531Z"
-  },
   "1342884960125845546": {
     "filename": "1342884960125845546.html",
     "displayName": "Driver for CS5529 SPI",
@@ -106,6 +100,12 @@
     "displayName": "Set hostname",
     "isArchived": false,
     "lastActivity": "2025-02-24T14:24:57.136Z"
+  },
+  "1343176175358578798": {
+    "filename": "1343176175358578798.html",
+    "displayName": "Pixelstrip on ESP32S3",
+    "isArchived": true,
+    "lastActivity": "2025-03-25T16:38:44.914Z"
   },
   "1341407586414493821": {
     "filename": "1341407586414493821.html",
