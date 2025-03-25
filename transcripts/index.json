@@ -9,7 +9,7 @@
     "filename": "1351515653466624071.html",
     "displayName": "I2S on 2.0.0-alpha.175 causing panic",
     "isArchived": false,
-    "lastActivity": "2025-03-25T09:05:23.093Z"
+    "lastActivity": "2025-03-25T09:24:45.920Z"
   },
   "1351498150921244722": {
     "filename": "1351498150921244722.html",
@@ -1300,5 +1300,59 @@
     "displayName": "CoPilot vscode setup?",
     "isArchived": true,
     "lastActivity": "2022-11-14T15:34:51.592Z"
+  },
+  "1034345780850470963": {
+    "filename": "1034345780850470963.html",
+    "displayName": "Unable to OTA after upgrading to version 35",
+    "isArchived": true,
+    "lastActivity": "2022-11-10T10:50:53.808Z"
+  },
+  "1037313775826649148": {
+    "filename": "1037313775826649148.html",
+    "displayName": "Unable to flash to ESP32",
+    "isArchived": true,
+    "lastActivity": "2022-11-09T18:30:03.346Z"
+  },
+  "1031030366611447898": {
+    "filename": "1031030366611447898.html",
+    "displayName": "vscode  setup?",
+    "isArchived": true,
+    "lastActivity": "2022-11-08T19:38:23.825Z"
+  },
+  "1036737584975581285": {
+    "filename": "1036737584975581285.html",
+    "displayName": "MQTT",
+    "isArchived": true,
+    "lastActivity": "2022-11-08T10:40:14.550Z"
+  },
+  "1035435681398394951": {
+    "filename": "1035435681398394951.html",
+    "displayName": "Dashboard",
+    "isArchived": true,
+    "lastActivity": "2022-11-05T15:24:59.203Z"
+  },
+  "1032998996395950160": {
+    "filename": "1032998996395950160.html",
+    "displayName": "MCPWM",
+    "isArchived": true,
+    "lastActivity": "2022-10-31T22:42:30.817Z"
+  },
+  "1034065091357835325": {
+    "filename": "1034065091357835325.html",
+    "displayName": "Help with HTTP library",
+    "isArchived": true,
+    "lastActivity": "2022-10-31T11:33:37.056Z"
+  },
+  "1028011906335776880": {
+    "filename": "1028011906335776880.html",
+    "displayName": "UDP connected socket, any obvious omission?",
+    "isArchived": true,
+    "lastActivity": "2022-10-15T20:29:46.560Z"
+  },
+  "1027509757403209768": {
+    "filename": "1027509757403209768.html",
+    "displayName": "Connecting Ultrasonic sensor to trigger Servo motor",
+    "isArchived": true,
+    "lastActivity": "2022-10-13T11:09:51.577Z"
   }
 }
