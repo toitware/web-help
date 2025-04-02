@@ -17,12 +17,6 @@
     "isArchived": false,
     "lastActivity": "2025-03-28T12:04:31.410Z"
   },
-  "1354111159330144277": {
-    "filename": "1354111159330144277.html",
-    "displayName": "How to detect the data type of an object?",
-    "isArchived": false,
-    "lastActivity": "2025-03-26T13:38:09.397Z"
-  },
   "1352603653134880820": {
     "filename": "1352603653134880820.html",
     "displayName": "Quite often my `jag run` commands hang, and I'm trying to figure out why!",
@@ -70,6 +64,12 @@
     "displayName": "Jag Monitor Error: unexpected EOF",
     "isArchived": false,
     "lastActivity": "2025-03-10T14:52:04.621Z"
+  },
+  "1354111159330144277": {
+    "filename": "1354111159330144277.html",
+    "displayName": "How to detect the data type of an object?",
+    "isArchived": true,
+    "lastActivity": "2025-04-02T15:12:43.170Z"
   },
   "1344326313431011358": {
     "filename": "1344326313431011358.html",
