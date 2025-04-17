@@ -15,9 +15,8 @@
 
 name: Publish fresh transcript
 on:
-# TODO(florian): Re-enable the schedule.
-# schedule:
-#   - cron: '0 * * * *'  # Every hour.
+  schedule:
+    - cron: '0 * * * *'  # Every hour.
   workflow_dispatch:
     inputs:
       clear-cache:
