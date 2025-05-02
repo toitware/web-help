@@ -65,17 +65,17 @@
     "isArchived": false,
     "lastActivity": "2025-04-13T08:09:22.167Z"
   },
-  "1355969227730980906": {
-    "filename": "1355969227730980906.html",
-    "displayName": "DS3231 driver and package registry",
-    "isArchived": false,
-    "lastActivity": "2025-04-02T05:37:44.264Z"
-  },
   "1097778826571943936": {
     "filename": "1097778826571943936.html",
     "displayName": "interrupts",
     "isArchived": false,
     "lastActivity": "2025-04-28T18:03:04.742Z"
+  },
+  "1355969227730980906": {
+    "filename": "1355969227730980906.html",
+    "displayName": "DS3231 driver and package registry",
+    "isArchived": true,
+    "lastActivity": "2025-05-02T05:47:33.858Z"
   },
   "1354471589344968724": {
     "filename": "1354471589344968724.html",
