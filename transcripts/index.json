@@ -101,12 +101,6 @@
     "isArchived": false,
     "lastActivity": "2025-04-24T10:00:28.969Z"
   },
-  "1364269440572854313": {
-    "filename": "1364269440572854313.html",
-    "displayName": "Is there an easy way to access the wifi credentials configured for jag within toit code?",
-    "isArchived": false,
-    "lastActivity": "2025-04-22T16:11:19.314Z"
-  },
   "1362446540664213575": {
     "filename": "1362446540664213575.html",
     "displayName": "Support for ESP32 Power Management",
@@ -118,6 +112,12 @@
     "displayName": "interrupts",
     "isArchived": false,
     "lastActivity": "2025-04-28T18:03:04.742Z"
+  },
+  "1364269440572854313": {
+    "filename": "1364269440572854313.html",
+    "displayName": "Is there an easy way to access the wifi credentials configured for jag within toit code?",
+    "isArchived": true,
+    "lastActivity": "2025-05-22T16:18:02.120Z"
   },
   "1363908127069569024": {
     "filename": "1363908127069569024.html",
