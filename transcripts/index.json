@@ -1,4 +1,10 @@
 {
+  "1375993324195938436": {
+    "filename": "1375993324195938436.html",
+    "displayName": "Passing arguments to a program (`jag watch` with defines)",
+    "isArchived": false,
+    "lastActivity": "2025-05-25T00:26:13.208Z"
+  },
   "1374708855141040231": {
     "filename": "1374708855141040231.html",
     "displayName": "Serial device does not appear in Linux when connecting a board with ESP32-S2 via USB",
