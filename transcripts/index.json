@@ -101,12 +101,6 @@
     "isArchived": false,
     "lastActivity": "2025-05-06T15:02:57.389Z"
   },
-  "1368610377239232682": {
-    "filename": "1368610377239232682.html",
-    "displayName": "Device unregisters with `jag` (esp32s3)",
-    "isArchived": false,
-    "lastActivity": "2025-05-04T18:59:06.324Z"
-  },
   "1368358622349754440": {
     "filename": "1368358622349754440.html",
     "displayName": "Captive Portal + Artemis",
@@ -118,6 +112,12 @@
     "displayName": "Support for ESP32 Power Management",
     "isArchived": false,
     "lastActivity": "2025-05-07T08:38:01.953Z"
+  },
+  "1368610377239232682": {
+    "filename": "1368610377239232682.html",
+    "displayName": "Device unregisters with `jag` (esp32s3)",
+    "isArchived": true,
+    "lastActivity": "2025-06-03T19:02:38.891Z"
   },
   "1367494549580152992": {
     "filename": "1367494549580152992.html",
