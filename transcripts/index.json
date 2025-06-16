@@ -95,12 +95,6 @@
     "isArchived": false,
     "lastActivity": "2025-05-21T11:25:41.329Z"
   },
-  "1372642971060797482": {
-    "filename": "1372642971060797482.html",
-    "displayName": "User canceled the installation process",
-    "isArchived": false,
-    "lastActivity": "2025-05-16T23:23:47.190Z"
-  },
   "1372627307570921482": {
     "filename": "1372627307570921482.html",
     "displayName": "Jag Disabled - Attempting to connect to network then do MQTT connection",
@@ -118,6 +112,12 @@
     "displayName": "Can not use wifi STA when using wifi AP mode",
     "isArchived": false,
     "lastActivity": "2025-06-15T20:28:11.162Z"
+  },
+  "1372642971060797482": {
+    "filename": "1372642971060797482.html",
+    "displayName": "User canceled the installation process",
+    "isArchived": true,
+    "lastActivity": "2025-06-15T23:26:57.162Z"
   },
   "1372556104998977627": {
     "filename": "1372556104998977627.html",
