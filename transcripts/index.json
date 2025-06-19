@@ -101,12 +101,6 @@
     "isArchived": false,
     "lastActivity": "2025-05-21T11:25:41.329Z"
   },
-  "1372627307570921482": {
-    "filename": "1372627307570921482.html",
-    "displayName": "Jag Disabled - Attempting to connect to network then do MQTT connection",
-    "isArchived": false,
-    "lastActivity": "2025-05-20T17:38:07.302Z"
-  },
   "1372513318610276352": {
     "filename": "1372513318610276352.html",
     "displayName": "Code generation options",
@@ -118,6 +112,12 @@
     "displayName": "Can not use wifi STA when using wifi AP mode",
     "isArchived": false,
     "lastActivity": "2025-06-17T17:01:58.334Z"
+  },
+  "1372627307570921482": {
+    "filename": "1372627307570921482.html",
+    "displayName": "Jag Disabled - Attempting to connect to network then do MQTT connection",
+    "isArchived": true,
+    "lastActivity": "2025-06-19T17:39:55.328Z"
   },
   "1372642971060797482": {
     "filename": "1372642971060797482.html",
