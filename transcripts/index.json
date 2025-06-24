@@ -83,12 +83,6 @@
     "isArchived": false,
     "lastActivity": "2025-06-09T08:43:09.805Z"
   },
-  "1375993324195938436": {
-    "filename": "1375993324195938436.html",
-    "displayName": "Passing arguments to a program (`jag watch` with defines)",
-    "isArchived": false,
-    "lastActivity": "2025-05-25T16:25:54.833Z"
-  },
   "1372513318610276352": {
     "filename": "1372513318610276352.html",
     "displayName": "Code generation options",
@@ -100,6 +94,12 @@
     "displayName": "Can not use wifi STA when using wifi AP mode",
     "isArchived": false,
     "lastActivity": "2025-06-24T03:24:20.156Z"
+  },
+  "1375993324195938436": {
+    "filename": "1375993324195938436.html",
+    "displayName": "Passing arguments to a program (`jag watch` with defines)",
+    "isArchived": true,
+    "lastActivity": "2025-06-24T16:30:44.861Z"
   },
   "1374708855141040231": {
     "filename": "1374708855141040231.html",
