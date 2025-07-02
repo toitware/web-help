@@ -65,12 +65,6 @@
     "isArchived": false,
     "lastActivity": "2025-06-04T06:38:53.263Z"
   },
-  "1377993829243949116": {
-    "filename": "1377993829243949116.html",
-    "displayName": "adjust clock time (no ntp server)",
-    "isArchived": false,
-    "lastActivity": "2025-06-02T15:39:08.355Z"
-  },
   "1377952521481355304": {
     "filename": "1377952521481355304.html",
     "displayName": "Esp-now during development",
@@ -88,6 +82,12 @@
     "displayName": "Can not use wifi STA when using wifi AP mode",
     "isArchived": false,
     "lastActivity": "2025-06-24T03:24:20.156Z"
+  },
+  "1377993829243949116": {
+    "filename": "1377993829243949116.html",
+    "displayName": "adjust clock time (no ntp server)",
+    "isArchived": true,
+    "lastActivity": "2025-07-02T15:47:50.760Z"
   },
   "1377271808360710205": {
     "filename": "1377271808360710205.html",
