@@ -1,10 +1,4 @@
 {
-  "1392588387491516472": {
-    "filename": "1392588387491516472.html",
-    "displayName": "Trying to run a simple RTU Modbus reading script - EXCEPTION ERROR",
-    "isArchived": false,
-    "lastActivity": "2025-07-09T19:29:04.619Z"
-  },
   "1389176701300375694": {
     "filename": "1389176701300375694.html",
     "displayName": "[uart] warning: event queue is full",
@@ -64,6 +58,12 @@
     "displayName": "Can not use wifi STA when using wifi AP mode",
     "isArchived": false,
     "lastActivity": "2025-06-24T03:24:20.156Z"
+  },
+  "1392588387491516472": {
+    "filename": "1392588387491516472.html",
+    "displayName": "Trying to run a simple RTU Modbus reading script - EXCEPTION ERROR",
+    "isArchived": true,
+    "lastActivity": "2025-07-10T13:36:34.428Z"
   },
   "1377952521481355304": {
     "filename": "1377952521481355304.html",
