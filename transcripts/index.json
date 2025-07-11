@@ -35,12 +35,6 @@
     "isArchived": false,
     "lastActivity": "2025-06-12T08:02:36.235Z"
   },
-  "1381958896696164434": {
-    "filename": "1381958896696164434.html",
-    "displayName": "Hanging up jag monitor, UART converter vs dev board USB",
-    "isArchived": false,
-    "lastActivity": "2025-06-11T15:21:18.632Z"
-  },
   "1381142719707217930": {
     "filename": "1381142719707217930.html",
     "displayName": "data package ploblem",
@@ -52,6 +46,12 @@
     "displayName": "Can not use wifi STA when using wifi AP mode",
     "isArchived": false,
     "lastActivity": "2025-06-24T03:24:20.156Z"
+  },
+  "1381958896696164434": {
+    "filename": "1381958896696164434.html",
+    "displayName": "Hanging up jag monitor, UART converter vs dev board USB",
+    "isArchived": true,
+    "lastActivity": "2025-07-11T15:29:54.217Z"
   },
   "1381993874096132227": {
     "filename": "1381993874096132227.html",
