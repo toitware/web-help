@@ -23,12 +23,6 @@
     "isArchived": false,
     "lastActivity": "2025-06-13T15:05:39.141Z"
   },
-  "1382673058317467759": {
-    "filename": "1382673058317467759.html",
-    "displayName": "Remove jaguar from FW envelope",
-    "isArchived": false,
-    "lastActivity": "2025-06-12T11:02:09.771Z"
-  },
   "1381142719707217930": {
     "filename": "1381142719707217930.html",
     "displayName": "data package ploblem",
@@ -40,6 +34,12 @@
     "displayName": "Can not use wifi STA when using wifi AP mode",
     "isArchived": false,
     "lastActivity": "2025-06-24T03:24:20.156Z"
+  },
+  "1382673058317467759": {
+    "filename": "1382673058317467759.html",
+    "displayName": "Remove jaguar from FW envelope",
+    "isArchived": true,
+    "lastActivity": "2025-07-12T11:11:59.098Z"
   },
   "1382385136342929508": {
     "filename": "1382385136342929508.html",
