@@ -35,17 +35,17 @@
     "isArchived": false,
     "lastActivity": "2025-07-30T15:33:18.280Z"
   },
-  "1389176701300375694": {
-    "filename": "1389176701300375694.html",
-    "displayName": "[uart] warning: event queue is full",
-    "isArchived": false,
-    "lastActivity": "2025-07-02T19:58:53.400Z"
-  },
   "1338551373666717736": {
     "filename": "1338551373666717736.html",
     "displayName": "Jag Monitor Error: unexpected EOF",
     "isArchived": false,
     "lastActivity": "2025-03-10T14:52:04.621Z"
+  },
+  "1389176701300375694": {
+    "filename": "1389176701300375694.html",
+    "displayName": "[uart] warning: event queue is full",
+    "isArchived": true,
+    "lastActivity": "2025-08-01T20:02:47.748Z"
   },
   "1118109444623061083": {
     "filename": "1118109444623061083.html",
