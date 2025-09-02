@@ -59,17 +59,17 @@
     "isArchived": false,
     "lastActivity": "2025-08-04T15:49:34.575Z"
   },
-  "1401419630618218496": {
-    "filename": "1401419630618218496.html",
-    "displayName": "How to configure static IP using WIFI or ETH",
-    "isArchived": false,
-    "lastActivity": "2025-08-03T14:44:29.589Z"
-  },
   "1396444844808867940": {
     "filename": "1396444844808867940.html",
     "displayName": "unexpected eof error",
     "isArchived": false,
     "lastActivity": "2025-09-01T10:13:55.064Z"
+  },
+  "1401419630618218496": {
+    "filename": "1401419630618218496.html",
+    "displayName": "How to configure static IP using WIFI or ETH",
+    "isArchived": true,
+    "lastActivity": "2025-09-02T14:50:15.739Z"
   },
   "1400354351884537856": {
     "filename": "1400354351884537856.html",
