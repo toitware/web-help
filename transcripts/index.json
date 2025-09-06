@@ -29,17 +29,17 @@
     "isArchived": false,
     "lastActivity": "2025-08-14T14:53:14.408Z"
   },
-  "1402719429430870088": {
-    "filename": "1402719429430870088.html",
-    "displayName": "MALLOC Failed Re-Creating SPI Device",
-    "isArchived": false,
-    "lastActivity": "2025-08-07T21:49:21.624Z"
-  },
   "1396444844808867940": {
     "filename": "1396444844808867940.html",
     "displayName": "unexpected eof error",
     "isArchived": false,
     "lastActivity": "2025-09-04T12:14:46.239Z"
+  },
+  "1402719429430870088": {
+    "filename": "1402719429430870088.html",
+    "displayName": "MALLOC Failed Re-Creating SPI Device",
+    "isArchived": true,
+    "lastActivity": "2025-09-06T21:52:46.160Z"
   },
   "1401509199598587924": {
     "filename": "1401509199598587924.html",
