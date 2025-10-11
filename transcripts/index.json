@@ -29,12 +29,6 @@
     "isArchived": false,
     "lastActivity": "2025-09-15T08:38:29.673Z"
   },
-  "1413568907985420339": {
-    "filename": "1413568907985420339.html",
-    "displayName": "Looping MALLOC_FAILED in jaguar",
-    "isArchived": false,
-    "lastActivity": "2025-09-11T12:46:33.688Z"
-  },
   "1408338031789871164": {
     "filename": "1408338031789871164.html",
     "displayName": "/toit/build/host/sdk/tools/firmware",
@@ -46,6 +40,12 @@
     "displayName": "Make jag flash not care about Snapshot  vs envelope version",
     "isArchived": false,
     "lastActivity": "2025-10-08T08:45:19.278Z"
+  },
+  "1413568907985420339": {
+    "filename": "1413568907985420339.html",
+    "displayName": "Looping MALLOC_FAILED in jaguar",
+    "isArchived": true,
+    "lastActivity": "2025-10-11T12:52:53.384Z"
   },
   "1415210628959965185": {
     "filename": "1415210628959965185.html",
