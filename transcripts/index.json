@@ -5,17 +5,17 @@
     "isArchived": false,
     "lastActivity": "2025-10-20T12:04:56.402Z"
   },
-  "1421046398928945162": {
-    "filename": "1421046398928945162.html",
-    "displayName": "Command line firmware size calculation",
-    "isArchived": false,
-    "lastActivity": "2025-09-26T09:08:51.011Z"
-  },
   "1293504400761028648": {
     "filename": "1293504400761028648.html",
     "displayName": "Make jag flash not care about Snapshot  vs envelope version",
     "isArchived": false,
     "lastActivity": "2025-10-08T08:45:19.278Z"
+  },
+  "1421046398928945162": {
+    "filename": "1421046398928945162.html",
+    "displayName": "Command line firmware size calculation",
+    "isArchived": true,
+    "lastActivity": "2025-10-26T09:18:36.105Z"
   },
   "1420079285519257712": {
     "filename": "1420079285519257712.html",
