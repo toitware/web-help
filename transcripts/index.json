@@ -1,4 +1,10 @@
 {
+  "1436352627263799386": {
+    "filename": "1436352627263799386.html",
+    "displayName": "Trouble Monitoring: Unexpected EOF",
+    "isArchived": false,
+    "lastActivity": "2025-11-07T13:52:32.481Z"
+  },
   "1434867797460127876": {
     "filename": "1434867797460127876.html",
     "displayName": "jag flash refusing to use correct esptool file",
@@ -22,6 +28,12 @@
     "displayName": "automatic light sleep",
     "isArchived": false,
     "lastActivity": "2025-10-26T18:06:53.894Z"
+  },
+  "1338551373666717736": {
+    "filename": "1338551373666717736.html",
+    "displayName": "Jag Monitor Error: unexpected EOF",
+    "isArchived": false,
+    "lastActivity": "2025-03-10T14:52:04.621Z"
   },
   "1293504400761028648": {
     "filename": "1293504400761028648.html",
@@ -166,12 +178,6 @@
     "displayName": "How do I wake up ESP32S3 from 10MHz CPU clock?",
     "isArchived": true,
     "lastActivity": "2025-08-29T15:37:29.122Z"
-  },
-  "1338551373666717736": {
-    "filename": "1338551373666717736.html",
-    "displayName": "Jag Monitor Error: unexpected EOF",
-    "isArchived": true,
-    "lastActivity": "2025-08-19T10:35:08.948Z"
   },
   "1400929791418306782": {
     "filename": "1400929791418306782.html",
