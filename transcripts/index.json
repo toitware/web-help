@@ -35,12 +35,6 @@
     "isArchived": false,
     "lastActivity": "2026-02-09T12:54:46.395Z"
   },
-  "1466477176189751472": {
-    "filename": "1466477176189751472.html",
-    "displayName": "Profiling code (time / cycles)",
-    "isArchived": false,
-    "lastActivity": "2026-01-29T18:02:17.152Z"
-  },
   "1432771183681474620": {
     "filename": "1432771183681474620.html",
     "displayName": "💥 ESP32-C3 mini crashes when using 2 uarts",
@@ -64,6 +58,12 @@
     "displayName": "wifi",
     "isArchived": false,
     "lastActivity": "2026-02-15T20:14:57.019Z"
+  },
+  "1466477176189751472": {
+    "filename": "1466477176189751472.html",
+    "displayName": "Profiling code (time / cycles)",
+    "isArchived": true,
+    "lastActivity": "2026-02-28T18:09:58.382Z"
   },
   "1466117097972301938": {
     "filename": "1466117097972301938.html",
