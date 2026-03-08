@@ -35,12 +35,6 @@
     "isArchived": false,
     "lastActivity": "2026-02-09T12:54:46.395Z"
   },
-  "1432771183681474620": {
-    "filename": "1432771183681474620.html",
-    "displayName": "💥 ESP32-C3 mini crashes when using 2 uarts",
-    "isArchived": false,
-    "lastActivity": "2026-02-06T17:54:36.791Z"
-  },
   "1432094642517704946": {
     "filename": "1432094642517704946.html",
     "displayName": "Issues with simple Neopixel code",
@@ -58,6 +52,12 @@
     "displayName": "wifi",
     "isArchived": false,
     "lastActivity": "2026-02-15T20:14:57.019Z"
+  },
+  "1432771183681474620": {
+    "filename": "1432771183681474620.html",
+    "displayName": "💥 ESP32-C3 mini crashes when using 2 uarts",
+    "isArchived": true,
+    "lastActivity": "2026-03-08T17:56:59.770Z"
   },
   "1466477176189751472": {
     "filename": "1466477176189751472.html",
