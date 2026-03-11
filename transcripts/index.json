@@ -29,12 +29,6 @@
     "isArchived": false,
     "lastActivity": "2026-02-10T08:32:03.193Z"
   },
-  "1470396695467528212": {
-    "filename": "1470396695467528212.html",
-    "displayName": "ble hci uart init error! panic :(",
-    "isArchived": false,
-    "lastActivity": "2026-02-09T12:54:46.395Z"
-  },
   "1432094642517704946": {
     "filename": "1432094642517704946.html",
     "displayName": "Issues with simple Neopixel code",
@@ -52,6 +46,12 @@
     "displayName": "wifi",
     "isArchived": false,
     "lastActivity": "2026-02-15T20:14:57.019Z"
+  },
+  "1470396695467528212": {
+    "filename": "1470396695467528212.html",
+    "displayName": "ble hci uart init error! panic :(",
+    "isArchived": true,
+    "lastActivity": "2026-03-11T12:56:14.569Z"
   },
   "1432771183681474620": {
     "filename": "1432771183681474620.html",
