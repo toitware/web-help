@@ -23,12 +23,6 @@
     "isArchived": false,
     "lastActivity": "2026-02-17T15:32:13.894Z"
   },
-  "1470678901926920304": {
-    "filename": "1470678901926920304.html",
-    "displayName": "Pixel-Display",
-    "isArchived": false,
-    "lastActivity": "2026-02-10T08:32:03.193Z"
-  },
   "1432094642517704946": {
     "filename": "1432094642517704946.html",
     "displayName": "Issues with simple Neopixel code",
@@ -46,6 +40,12 @@
     "displayName": "wifi",
     "isArchived": false,
     "lastActivity": "2026-02-15T20:14:57.019Z"
+  },
+  "1470678901926920304": {
+    "filename": "1470678901926920304.html",
+    "displayName": "Pixel-Display",
+    "isArchived": true,
+    "lastActivity": "2026-03-12T08:39:26.782Z"
   },
   "1470396695467528212": {
     "filename": "1470396695467528212.html",
