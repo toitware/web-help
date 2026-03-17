@@ -23,12 +23,6 @@
     "isArchived": false,
     "lastActivity": "2026-02-17T15:32:13.894Z"
   },
-  "1432094642517704946": {
-    "filename": "1432094642517704946.html",
-    "displayName": "Issues with simple Neopixel code",
-    "isArchived": false,
-    "lastActivity": "2026-02-15T18:51:33.366Z"
-  },
   "1370431341929435136": {
     "filename": "1370431341929435136.html",
     "displayName": "jag run -D jag.wifi=false (not working)",
@@ -40,6 +34,12 @@
     "displayName": "wifi",
     "isArchived": false,
     "lastActivity": "2026-02-15T20:14:57.019Z"
+  },
+  "1432094642517704946": {
+    "filename": "1432094642517704946.html",
+    "displayName": "Issues with simple Neopixel code",
+    "isArchived": true,
+    "lastActivity": "2026-03-17T18:59:38.319Z"
   },
   "1470678901926920304": {
     "filename": "1470678901926920304.html",
