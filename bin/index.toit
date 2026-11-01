@@ -37,8 +37,7 @@ build-main-index topics/Map --transcripts-dir/string --all-topics-path/string ->
         <div class="layout">
           <h1>Help</h1>
           The Toit community provides support through <a href="https://chat.toit.io">Discord</a> and
-          <a href="https://github.com/toitlang/toit/discussions">GitHub Discussions</a>. We
-          also answer questions on <a href="https://stackoverflow.com/questions/tagged/toit">Stack Overflow</a>.
+          <a href="https://github.com/toitlang/toit/discussions">GitHub Discussions</a>.
 
           <h2>Topics</h2>
           The following topics have been recently discussed in the Discord channel:
